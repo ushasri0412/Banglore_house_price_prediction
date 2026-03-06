@@ -20,3 +20,8 @@ streamlit run command
 ```
 streamlit run file.py
 ```
+
+Live application
+```
+https://banglorehousepriceprediction-f7gwdy97qie5g8ggfl3dst.streamlit.app/
+```
